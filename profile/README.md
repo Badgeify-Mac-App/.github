@@ -20,7 +20,7 @@ The software includes features such as vector-based design tools, high-resolutio
 
 Optimized for **macOS Sonoma, Ventura, and Monterey**, Badgeify runs smoothly on both Intel and Apple Silicon Macs. Its lightweight design ensures fast performance even with multiple projects open.
 
-![Badgeify Screenshot](https://cdn.trendhunterstatic.com/thumbs/568/badgeify.jpeg)
+![Badgeify Screenshot](https://badgeify.app/_astro/content1.qeZmwurt.png)
 
 ---
 
